@@ -1,10 +1,10 @@
 # Requirements
 ## Introduction
- -Cashflow Manager is an application the enables users have a track of their day to day cash inflow and outflow. This application will help to get a clear idea of their income and expenses. The application makes users aware of unnecessary expense and helps to understand money management.
+ -Bankroll Manager is an application the enables users have a track of their day to day cash inflow and outflow. This application will help to get a clear idea of their income and expenses. The application makes users aware of unnecessary expense and helps to understand money management.
 
 ## Research
 
--- Cashflow application is essential part of this generation as money needs to be managed efficiently therefore application is designed to keep a track of Income-Expense of the users.
+-- Bankroll application is essential part of this generation as money needs to be managed efficiently therefore application is designed to keep a track of Income-Expense of the users.
 ### Benefits
 --There are many application available in market but this application is user-friendly and can be easy managed by uses to keep track of their savings after their expenses being deducted from the various sources of income of the user. 
 ### Overview
