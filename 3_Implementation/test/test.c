@@ -3,7 +3,7 @@
 
 
 /* Modify these two lines according to the project */
-#define PROJECT_NAME    "CashFlow "
+#define PROJECT_NAME    "Bankroll "
 
 /* Prototypes for all the test functions */
 
